@@ -1,4 +1,4 @@
-package com.tanmoy.dao;
+package com.tanmoy.multitenant;
 
 import org.hibernate.annotations.GenericGenerator;
 

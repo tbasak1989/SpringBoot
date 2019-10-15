@@ -1,4 +1,4 @@
-package com.tanmoy.dao;
+package com.tanmoy.multitenant;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;

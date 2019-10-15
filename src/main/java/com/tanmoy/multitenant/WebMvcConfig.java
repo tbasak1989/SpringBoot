@@ -1,4 +1,4 @@
-package com.tanmoy.config;
+package com.tanmoy.multitenant;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

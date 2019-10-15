@@ -1,4 +1,4 @@
-package com.tanmoy.config;
+package com.tanmoy.multitenant;
 
 import org.hibernate.MultiTenancyStrategy;
 import org.hibernate.cfg.Environment;
